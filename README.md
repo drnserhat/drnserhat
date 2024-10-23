@@ -4,8 +4,7 @@
 <!-- Kısa Tanıtım -->
 Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üzerinde çalışıyorum.
 
-<!-- Profil Resmi -->
-![Profil Resmi](link_to_your_profile_image) <!-- Buraya profil resminizin URL'sini ekleyin -->
+
 
 <!-- İletişim Bilgileri -->
 ## 📫 İletişim
