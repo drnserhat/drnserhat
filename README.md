@@ -17,9 +17,6 @@ Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üze
 - **Web Teknolojileri:** ASP.NET Core, PHP Laravel, Django, PHP CodeIgniter, HTML, CSS, JavaScript
 - **Veritabanları:** MSSQL, MySQL, PostgreSQL, MongoDB
 
-<!-- İstatistikler -->
-## 📊 İstatistikler
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=drnserhat&show_icons=true&theme=radical)
 
 
 <!-- Sonuç -->
