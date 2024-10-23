@@ -19,7 +19,8 @@ Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üze
 
 <!-- İstatistikler -->
 ## 📊 İstatistikler
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=drnserhat)](https://github.com/drnserhat/github-readme-stats)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=drnserhat&show_icons=true&theme=radical)
+
 
 <!-- Sonuç -->
 ## 🙌 Teşekkürler!
