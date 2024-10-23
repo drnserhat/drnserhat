@@ -1,5 +1,5 @@
 <!-- Başlık -->
-# 👋 Merhaba, ben Serhat Durduran!
+# 👋Serhat Durduran!
 
 <!-- Kısa Tanıtım -->
 Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üzerinde çalışıyorum.
@@ -14,7 +14,7 @@ Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üze
 <!-- Yetenekler -->
 ## 💻 Yetenekler
 - **Programlama Dilleri:** C#, PHP, Python, Java
-- **Web Teknolojileri:** ASP.NET Core, PHP Laravel, PHP CodeIgniter, HTML, CSS, JavaScript
+- **Web Teknolojileri:** ASP.NET Core, PHP Laravel, Django, PHP CodeIgniter, HTML, CSS, JavaScript
 - **Veritabanları:** MSSQL, MySQL, PostgreSQL, MongoDB
 
 <!-- İstatistikler -->
