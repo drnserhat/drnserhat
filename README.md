@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Başlık -->
+# 👋 Merhaba, ben Serhat Durduran!
 
-<!--
-**drnserhat/drnserhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Kısa Tanıtım -->
+Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+<!-- Profil Resmi -->
+![Profil Resmi](link_to_your_profile_image) <!-- Buraya profil resminizin URL'sini ekleyin -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- İletişim Bilgileri -->
+## 📫 İletişim
+- [LinkedIn](https://www.linkedin.com/in/drnserhat/)
+- [E-posta](mailto:durduranserhat@gmail.com)
+
+<!-- Yetenekler -->
+## 💻 Yetenekler
+- **Programlama Dilleri:** C#, PHP, Python, Java
+- **Web Teknolojileri:** ASP.NET Core, PHP Laravel, PHP CodeIgniter, HTML, CSS, JavaScript
+- **Veritabanları:** MSSQL, MySQL, PostgreSQL, MongoDB
+
+<!-- İstatistikler -->
+## 📊 İstatistikler
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=drnserhat&show_icons=true&hide_title=true)
+
+<!-- Sonuç -->
+## 🙌 Teşekkürler!
+Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla bilgi almak isterseniz benimle iletişime geçebilirsiniz.
