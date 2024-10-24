@@ -1,7 +1,6 @@
 <!-- Başlık -->
 # 👋Serhat Durduran!
 
-![Profile Views](https://komarev.com/ghpvc/?username=drnserhat&color=blue&style=flat-square)
 
 <!-- Kısa Tanıtım -->
 Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üzerinde çalışıyorum.
