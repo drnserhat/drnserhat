@@ -4,8 +4,6 @@
 <!-- Kısa Tanıtım -->
 Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üzerinde çalışıyorum.
 
-
-
 <!-- İletişim Bilgileri -->
 ## 📫 İletişim
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/drnserhat/)
@@ -34,7 +32,11 @@ Ben yazılım geliştiricisiyim ve özellikle C# ve .NET Core teknolojileri üze
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
+### 🛠️ Diğer Teknolojiler
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-4E8C7F?style=for-the-badge&logo=api&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 <!-- Sonuç -->
 ## 🙌 Teşekkürler!
