@@ -1,5 +1,5 @@
 <!-- Başlık -->
-# 👋Serhat Durduran!
+# Merhaba Ben,👋Serhat Durduran!
 
 
 <!-- Kısa Tanıtım -->
