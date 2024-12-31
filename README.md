@@ -35,6 +35,7 @@ I am a software developer, specializing in C# and .NET Core technologies.
 ### 🛠️ Other Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-4E8C7F?style=flat-square&logo=api&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
