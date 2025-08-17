@@ -39,6 +39,3 @@ I am a software developer, specializing in C# and .NET Core technologies.
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-4E8C7F?style=flat-square&logo=api&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
-<!-- Conclusion -->
-## 🙌 Thank You!
-Thank you for visiting my profile! Feel free to reach out to me if you’d like to learn more.
