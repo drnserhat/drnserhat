@@ -38,4 +38,7 @@ I am a software developer, specializing in C# and .NET Core technologies.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-4E8C7F?style=flat-square&logo=api&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-F8BC0C?style=flat-square&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
