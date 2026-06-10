@@ -61,11 +61,12 @@ I'm a software developer focused on backend development, enterprise systems, clo
 </p>
 
 ---
-
-# 🏆 GitHub Achievements
+# ⚡ Development Statistics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=drnserhat&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drnserhat&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drnserhat&theme=tokyonight&utcOffset=3" />
 </p>
 
 ---
